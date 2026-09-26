@@ -33,21 +33,21 @@ https://github.com/sarathedu1/data-architecture/wiki
 
 [Provided Context and Task] 
 
-Consider that you are going to be assigned to aggesive Client Team and you will be collaborating with various primary and secondary stake holders and performing cross‑functional teamwork and internal‑customer support across domains including supply-chain, manufacturing/production, product quality and maintenance, sales, analytics.  
+Consider that you are going to be assigned to aggresive Client Team and you will be collaborating with various primary and secondary stake holders and performing cross‑functional teamwork and internal‑customer support across domains including supply-chain, manufacturing/production, product quality and maintenance, sales, analytics.  
 
-Come up with separate PlayBooks (per industry) of 150 pages that walks a Client Team through various Business usecases correlating with Technical usecases covering your role, responsibilities, domains, technologies & architectures making complete End-to-End Stories. 
+Come up with separate Books (per industry) of 150 pages that walks a Client Team through various Business usecases correlating with Technical usecases covering your role, responsibilities, domains, technologies & architectures making complete End-to-End Stories. 
 
 
 [Rules] 
 
-1. Playbook must cover -   
+1. Book must cover -   
   (a) Ecommerce with Own Brands and Vendor Brands (Groceries & Apparel covering Digital and InStore),
   (b) Airspace & Defence
-2. For each Industry, Playbook must describe complete lifecycle of each aspect and reusable, and secure and auditable patterns).
-3. Playbook must describe your responsibilities connected to (usecase, task , technologies, relevant code, architectures and domains) while explaning the lifecycle of each aspect. 
+2. For each Industry, Book must describe complete lifecycle of each aspect and reusable, and secure and auditable patterns).
+3. Book must describe your responsibilities connected to (usecase, task , technologies, relevant code, architectures and domains) while explaining the lifecycle of each aspect. 
 4. Make sure to cover all responsibilities. 
-5. Usecases should cover end-to-end flow and should not be disjointed and irrelatable to other usecases.
-6. Playbook must contain diagrams (mostly ascii) describing ontologies, architecture, design, linkages and complete code.
+5. Usecases should cover end-to-end flow with connectedness in mind and should not be disjointed or not relatable to other usecases.
+6. Book must contain diagrams (mostly ascii) describing ontologies, architecture, design, linkages and complete code.
 7. Do analysis based on trusted and relatively recent web sources when it come to technology and do not rely on random unpopular and outdated resources.
 
 Use Model that does smart thinking and able to provide organized output.
