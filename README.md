@@ -35,7 +35,7 @@ https://github.com/sarathedu1/data-architecture/wiki
 
 Consider that you are going to be assigned to aggesive Client Team and you will be collaborating with various primary and secondary stake holders and performing cross‑functional teamwork and internal‑customer support across domains including supply-chain, manufacturing/production, product quality and maintenance, sales, analytics.  
 
-Come up with a PlayBook of 150 pages that walks a Client Team through various Business usecases correlating with Technical usecases covering your role, responsibilities, domains, technologies & architectures making complete End-to-End Stories. 
+Come up with separate PlayBooks (per industry) of 150 pages that walks a Client Team through various Business usecases correlating with Technical usecases covering your role, responsibilities, domains, technologies & architectures making complete End-to-End Stories. 
 
 
 [Rules] 
